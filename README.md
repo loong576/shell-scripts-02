@@ -198,7 +198,7 @@ loong576-mysql2 10.17.6.17
 
 ![image-20210126160213473](https://i.loli.net/2021/01/26/1MA3rONywpBiI8e.png)通过5和6可以很方便的将/etc/hosts的ip+主机名格式转换为主机名+ansible_ssh_host=+ip的格式，满足ansible对主机名的格式要求
 
-### 通过5和6可以很方便的将/etc/hosts的ip+主机名格式转换为主机名+ansible_ssh_host=+ip的格式，满足ansible对主机名的格式要求
+通过5和6可以很方便的将/etc/hosts的ip+主机名格式转换为主机名+ansible_ssh_host=+ip的格式，满足ansible对主机名的格式要求
 
 ### 7.find、xargs、rm删除找到的文件
 
